@@ -58,9 +58,10 @@ Algunas consultas realizadas:
 - Distribución de calificaciones de libros.  
 - Reseñas más relevantes por usuarios.
 
-Ejemplo de visualización:
+# ⚠️ Nota: Para establecer la conexión es necesario contar con el archivo `CA.pem`, 
+el cual no se incluye en este repositorio por motivos de seguridad. 
+Debe colocarse en el mismo directorio que el notebook antes de ejecutar el análisis.
 
-![Ejemplo de gráfica](images/ejemplo.png)
 
 ## 📌 Notas  
 - La base de datos usada para este análisis **no** se incluye en el repositorio por motivos de privacidad.  
